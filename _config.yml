@@ -1,15 +1,15 @@
-typography_spectrum: 0.5653016809374094
+typography_spectrum: 0.6673554773442447
 color:
-  brandStrength: 0.464752429863438
-  lightness: 0.6376477465964854
-  saturation: 0.673878773348406
-  rhythmicContrast: 0.1218618149869144
+  brandStrength: 0.5037008537910879
+  lightness: 0.6340347537770867
+  saturation: 0.7572208344936371
+  rhythmicContrast: 0.8042852983344346
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 layout_spectrum: 0.88521798257716
 name: safe
 title: The burden of belief
