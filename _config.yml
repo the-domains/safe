@@ -1,0 +1,14 @@
+layout_spectrum: 0.38299176446162164
+typography_spectrum: 0.15533539885655046
+color:
+  brandStrength: 0.7859103477094322
+  lightness: 0.8905983616132289
+  saturation: 0.6347311940044165
+  rhythmicContrast: 0.2438921215943992
+  brandColors:
+    - '#0A101C'
+    - '#596D86'
+    - '#7F99B2'
+    - '#D5E2EA'
+    - '#965721'
+name: safe
