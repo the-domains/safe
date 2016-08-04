@@ -1,4 +1,4 @@
-typography_spectrum: 0.6673554773442447
+typography_spectrum: 0.4973910020198673
 color:
   brandStrength: 0.5037008537910879
   lightness: 0.6340347537770867
@@ -10,7 +10,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.88521798257716
+layout_spectrum: 0.16215137508697808
 name: safe
 title: The burden of belief
 description: What goes up... must continue upwards.
