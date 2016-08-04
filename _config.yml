@@ -6,9 +6,9 @@ color:
   saturation: 0.6347311940044165
   rhythmicContrast: 0.2438921215943992
   brandColors:
-    - '#0A101C'
-    - '#596D86'
-    - '#7F99B2'
-    - '#D5E2EA'
-    - '#965721'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: safe
