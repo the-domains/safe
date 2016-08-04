@@ -1,16 +1,16 @@
-typography_spectrum: 0.15533539885655046
+typography_spectrum: 0.5653016809374094
 color:
-  brandStrength: 0.7859103477094322
-  lightness: 0.8905983616132289
-  saturation: 0.6347311940044165
-  rhythmicContrast: 0.2438921215943992
+  brandStrength: 0.464752429863438
+  lightness: 0.6376477465964854
+  saturation: 0.673878773348406
+  rhythmicContrast: 0.1218618149869144
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.38299176446162164
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+layout_spectrum: 0.88521798257716
 name: safe
 title: The burden of belief
 description: What goes up... must continue upwards.
