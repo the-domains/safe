@@ -1,16 +1,16 @@
-typography_spectrum: 0.15533539885655046
+layout_spectrum: 0.7210408165119588
+typography_spectrum: 0.5488347916398197
 color:
-  brandStrength: 0.7859103477094322
-  lightness: 0.8905983616132289
-  saturation: 0.6347311940044165
-  rhythmicContrast: 0.2438921215943992
+  brandStrength: 0.5694581815041602
+  lightness: 0.47886759461835027
+  saturation: 0.12105000182054937
+  rhythmicContrast: 0.6267232000827789
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.38299176446162164
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 author:
   name: Darren Cornwell
   email: darren@irregularactivity.co.uk
