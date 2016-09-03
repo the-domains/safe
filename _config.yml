@@ -11,6 +11,10 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.38299176446162164
+author:
+  name: Darren Cornwell
+  email: darren@irregularactivity.co.uk
+  url: irregularactivity.co.uk
 name: safe
 title: The burden of belief
 description: What goes upwards... must continue onwards.
